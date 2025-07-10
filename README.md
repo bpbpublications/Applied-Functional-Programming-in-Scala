@@ -1,2 +1,2 @@
-# Applied Functional Programming
- Applied Functional Programming, By BPB Publications
+# Applied Functional Programming in Scala
+ Applied Functional Programming in Scala, By BPB Publications
